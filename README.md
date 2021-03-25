@@ -7,7 +7,7 @@ Telegram Support Bot для технической поддержки польз
 3. Админ-панель - нужна для добавления и удаления сотрудников поддержки, генерации/удаления паролей доступа, а также для отключения бота.
 
 ## Скриншот
-[Screenshot](https://github.com/Blazzerrr/TelegramSupportBot/blob/master/image.png) 
+![Screenshot](https://github.com/Blazzerrr/TelegramSupportBot/blob/master/image.png) 
 
 ## Настройка
 Откройте файл config.py и по документации внутри файла, заполните все обязательные для запуска переменные.
