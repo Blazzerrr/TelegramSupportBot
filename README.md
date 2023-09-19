@@ -29,12 +29,12 @@ python3 bot.py
 - pymysql
 
 ## Донат
-— QIWI: **[qiwi.com/n/BLAZZERRR](qiwi.com/n/BLAZZERRR)**</br>
-— BTC: **bc1qhajqf6k3lass7sq8y2p3jg6xav6hrnguacdgsz**</br>
-— ETH: **0xD2F03940ec729BfDFA79a5b7a867e8F55E470b67**</br>
-— XRP: **r3do8Bp7qfobrv5QmyBqp3PzJ2k8VQtGY8**</br>
-— BNB: **bnb1wv357zh590hmys3z07fv56mv8uqua4cvz2p3dw**</br>
-— DOGE: **DL1vn98EWknvSsbkFeruZYk3DhSLft8QWQ**
+— QIWI: **<code>[qiwi.com/n/BLAZZZERRR](https://qiwi.com/n/BLAZZZERRR)</code>**</br>
+— BTC: **<code>bc1qhajqf6k3lass7sq8y2p3jg6xav6hrnguacdgsz</code>**</br>
+— ETH: **<code>0xD2F03940ec729BfDFA79a5b7a867e8F55E470b67</code>**</br>
+— XRP: **<code>r3do8Bp7qfobrv5QmyBqp3PzJ2k8VQtGY8</code>**</br>
+— BNB: **<code>bnb1wv357zh590hmys3z07fv56mv8uqua4cvz2p3dw</code>**</br>
+— DOGE: **<code>DL1vn98EWknvSsbkFeruZYk3DhSLft8QWQ</code>**
 
 ## Автор
 Blazzerrr
